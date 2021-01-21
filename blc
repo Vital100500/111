@@ -1,6 +1,0 @@
-#!/bin/bash
-
-#echo "Enter ip:"
-#read ip
-echo "hi webhook1111"
-curl  https://api.hetrixtools.com/v2/5177c800ff9e943e0530ebd13804253e/blacklist-check/domain/8.8.8.8/
